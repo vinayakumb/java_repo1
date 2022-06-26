@@ -30,7 +30,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-<!== Dummy  hyes12 hook ==>
+
     <build>
         <plugins>
             <plugin>
