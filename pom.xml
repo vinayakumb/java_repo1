@@ -30,7 +30,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
+<!== Dummy hook ==>
     <build>
         <plugins>
             <plugin>
